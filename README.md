@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harsh-parit
-- 👀 I’m interested in Devops
-- 🌱 I’m currently learning BCA, DevOps, Kubernetes, Terraform
-- 💞️ I’m looking to collaborate on Devops 
+- 👀 I’m interested in Devops.
+- 🌱 I’m currently learning BCA.
+- 💞️ I’m looking to collaborate on Devops.
 - 📫 How to reach me harshdevops09@gmail.com
 
 <!---
