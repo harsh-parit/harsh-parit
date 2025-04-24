@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harsh-parit
 - 👀 I’m interested in Devops.
-- 🌱 I’m currently learning BCA.
+- 🌱 I’m currently pursuing BCA.
 - 💞️ I’m looking to collaborate on Devops.
 - 📫 How to reach me harshdevops09@gmail.com
 
