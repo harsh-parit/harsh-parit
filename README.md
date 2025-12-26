@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harsh-parit
-- 👀 I’m interested in Devops.
+- 👀 I’m interested in Fresher – Software & IT Roles | Web Development | DevOps Enthusiast (AWS) |
 - 🌱 I’m currently pursuing BCA.
-- 💞️ I’m looking to collaborate on Devops.
+- 💞️ I’m looking to collaborate on Gen AI, and more of in AI
 - 📫 How to reach me harshdevops09@gmail.com
 
 <!---
