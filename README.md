@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harsh-parit
-- 
+ 
 - 👀 I’m interested in Fresher – Software & IT Roles | Web Development | DevOps Enthusiast (AWS) | Linux
   
 - 🌱 I’m currently BCA undergraduate aspiring for DevOps Intern/Fresher roles with strong basics in software development, deployment workflows, and troubleshooting.
